@@ -1,0 +1,12 @@
+RA 185/2014 Daniel Njari
+file	sum
+video-0.avi	-17
+video-1.avi	-14
+video-2.avi	-4
+video-3.avi	-37
+video-4.avi	-32
+video-5.avi	29
+video-6.avi	-53
+video-7.avi	11
+video-8.avi	-15
+video-9.avi	17
